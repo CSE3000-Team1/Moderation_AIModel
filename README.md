@@ -3,7 +3,7 @@
 CSE 3000 - Section 3 | Team 1
 Content Moderation AI Model
 
--Jared Mercado
--Peter Petropolous
--Jackson Mailhot
+-Jared Mercado  
+-Peter Petropolous  
+-Jackson Mailhot  
 -Connor Jackson
