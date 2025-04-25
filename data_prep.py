@@ -1,5 +1,3 @@
-#this I actually did myself with help of Deepseek but it is basically all I have got done so far, so
-
 import pandas as pd
 import re
 import nltk
