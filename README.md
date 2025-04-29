@@ -16,7 +16,7 @@ Jackson M.-
 
 Jared M.- 
 
-Peter P.- worked on data preprocessing and model training code, 
+Peter P.- worked on data preprocessing and model training code, analyzed results to configure the reflect.py and reflection section of the report
 
  
 
