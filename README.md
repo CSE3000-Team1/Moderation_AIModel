@@ -10,13 +10,13 @@ Content Moderation AI Model
 
 Contributions: 
 
-Connor J.- worked on data preprocessing and model training code, created confusion matrix, did methodology and results section of the report 
+Connor J.- primarily worked on data preprocessing and model training code, created confusion matrix, did methodology and results section of the report 
 
 Jackson M.-  
 
 Jared M.- 
 
-Peter P.- worked on data preprocessing and model training code, analyzed results to configure the reflect.py and reflection section of the report
+Peter P.- helped with work on data preprocessing and model training code, analyzed results to configure the reflect.py and reflection section of the report
 
  
 
