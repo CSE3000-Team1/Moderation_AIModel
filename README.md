@@ -12,7 +12,7 @@ Contributions:
 
 Connor J.- primarily worked on data preprocessing and model training code, created confusion matrix, did methodology and results section of the report 
 
-Jackson M.-  
+Jackson M.- worked with the model training code, worked on PowerPoint sections for model training and results
 
 Jared M.- 
 
