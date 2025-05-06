@@ -14,7 +14,7 @@ Connor J.- primarily worked on data preprocessing and model training code, creat
 
 Jackson M.- worked with the model training code, worked on PowerPoint sections for model training and results
 
-Jared M.- 
+Jared M.- oversaw and assisted with data and coding, worked on consolidating data and created presentation
 
 Peter P.- helped with work on data preprocessing and model training code, analyzed results to configure the reflect.py and reflection section of the report
 
